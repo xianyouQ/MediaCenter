@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.youxianqin.mediacenter.MainActivity">
+    <item
+        android:id="@+id/add_videotype"
+        android:orderInCategory="1"
+        android:title="@string/menu_add_type"
+        android:showAsAction="never"/>
+    <item         
+        android:id="@+id/add_videoparent"
+        android:orderInCategory="2"
+        android:title="@string/menu_add_parent"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/init_service"
+        android:orderInCategory="3"
+        android:title="@string/menu_init_service"
+        android:showAsAction="never"/>
+</menu>

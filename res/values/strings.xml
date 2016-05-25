@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediaCenter</string>
+    <string name="menu_add_type">添加视频种类</string>
+    <string name="menu_add_parent">添加视频组</string>
+    <string name="addtypehint">输入视频类型名称</string>
+    <string name="addtypeconfirm">确认提交</string>
+    <string name="addparenthint">输入视频组名称</string>
+    <string name="menu_init_service">初始化</string>
+</resources>
